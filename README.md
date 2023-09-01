@@ -1,44 +1,45 @@
-## 👋 很高兴认识你 👋
+## 👋 Soooooo Nice to meet you! 👋
 
-简体中文 | [English](https://#) 
+English | [简体中文](https://github.com/whiterasbk/whiterasbk/blob/main/README_zh.md) 
 
-我的名字是 -> ✨ 子钰余子式 ✨
+you can call me -> ✨ whiter ✨
 
-😄 如果你在其他地方见到了下面的名字: 
+😄 but if you meet names below in other places: 
  
  - 白客
  - 白子钰
+ - 子钰余子式
  - whiter
  - whiterasbk
 
-头像又是这个大貔貅的话, 那么大概率就是我
+<=== and his avatar is similar to the left side, then he's highly likely me
 
-✒️ 使用的语言大概有这么少
+✒️ I mainly use following language in my repos
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiterasbk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-🚩 Contribution 也很菜逼
+🚩 And Contributions are lame as well
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiterasbk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-🔭 我最近正在致力于 `躺平`
+🔭 I’m currently working on `lie flat`
 
-🌱 我最近正在学习 [`咳特灵`](https://kotlinlang.org)
+🌱 I’m currently learning [`kotlin`](https://kotlinlang.org)
 
-💝 我感兴趣的领域有 `编译原理` `音乐`
+💝 I’m interested in `Compilation Principle` `Music`
 
-🎮 我喜欢的游戏有 [`Minecraft`](https://www.minecraft.net/) [`undertale`](https://undertale.com/) [`Phigros`](https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros)
+🎮 I like playing [`Minecraft`](https://www.minecraft.net/) [`undertale`](https://undertale.com/) [`Phigros`](https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros)
 
-🎼 我喜欢的音乐有 [`卡农`](https://www.youtube.com/watch?v=Ptk_1Dc2iPY) [`梦中的婚礼`](https://www.youtube.com/watch?v=FoCG-WNsZio) [`莫失莫忘`](https://www.youtube.com/watch?v=xTRVZbHjmbc)
+🎼 I like listening [`Canon In D`](https://www.youtube.com/watch?v=Ptk_1Dc2iPY) [`Mariage d'Amour`](https://www.youtube.com/watch?v=FoCG-WNsZio) [`莫失莫忘`](https://www.youtube.com/watch?v=xTRVZbHjmbc)
 
-📫 你可以在 [Twitter(~大叉叉~)](https://twitter.com/whiterasbk) 上找到我
+📫 You can find me at [Twitter(~X~)](https://twitter.com/whiterasbk)
 
 
-## 喂喂喂! Contributions 快被吃光了啊喂!
+## Ooops! Contributions almost eaten up by gready snake!
 
 ![](https://github.com/whiterasbk/whiterasbk/blob/snake-output/github-contribution-grid-snake.svg)
 
-~吃! 随便吃! 本来也没多少(~
+~It's fine, I'm even worried about it remaining starving after finishing eating~
 
 <!--
 **whiterasbk/whiterasbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
