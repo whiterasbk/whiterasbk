@@ -34,7 +34,7 @@
 📫 你可以在 [Twitter(~大叉叉~)](https://twitter.com/whiterasbk) 上找到我
 
 
-## 喂喂喂! Contributions 快被贪吃蛇吃光了啊喂!
+## 喂喂喂! Contributions 快被吃光了啊喂!
 
 ![](https://github.com/whiterasbk/whiterasbk/blob/snake-output/github-contribution-grid-snake.svg)
 
