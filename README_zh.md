@@ -15,7 +15,7 @@
 
 ✒️ 使用的语言大概有这么少
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiterasbk&layout=compact&hide=HTML,CSS,Less)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiterasbk&layout=compact&hide=HTML,CSS,Less,Liquid)](https://github.com/anuraghazra/github-readme-stats)
 
 🚩 Contribution 也很菜逼
 
