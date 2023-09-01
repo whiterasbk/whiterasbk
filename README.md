@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+喂喂喂! 吃光啦!
+![](https://github.com/whiterasbk/whiterasbk/blob/snake-output/github-contribution-grid-snake.svg)
