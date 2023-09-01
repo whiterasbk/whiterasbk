@@ -38,6 +38,8 @@
 
 ![](https://github.com/whiterasbk/whiterasbk/blob/snake-output/github-contribution-grid-snake.svg)
 
+~吃! 随便吃! 本来也没多少(~
+
 <!--
 **whiterasbk/whiterasbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
