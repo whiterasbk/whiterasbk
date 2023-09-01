@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+简体中文 | English 
+
 <!--
 **whiterasbk/whiterasbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
