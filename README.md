@@ -17,7 +17,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiterasbk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-🚩 贡献也很菜逼
+🚩 Contribution 也很菜逼
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiterasbk)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -32,6 +32,11 @@
 🎼 我喜欢的音乐有 [`卡农`](https://www.youtube.com/watch?v=Ptk_1Dc2iPY) [`梦中的婚礼`](https://www.youtube.com/watch?v=FoCG-WNsZio) [`莫失莫忘`](https://www.youtube.com/watch?v=xTRVZbHjmbc)
 
 📫 你可以在 [Twitter(~大叉叉~)](https://twitter.com/whiterasbk) 上找到我
+
+
+## 喂喂喂! Contributions 快被贪吃蛇吃光了啊喂!
+
+![](https://github.com/whiterasbk/whiterasbk/blob/snake-output/github-contribution-grid-snake.svg)
 
 <!--
 **whiterasbk/whiterasbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,8 +53,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-## 喂喂喂! 贡献快被贪吃蛇吃光了啊喂!
-
-![](https://github.com/whiterasbk/whiterasbk/blob/snake-output/github-contribution-grid-snake.svg)
