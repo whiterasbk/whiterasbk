@@ -29,7 +29,7 @@
 
 🎮 我喜欢的游戏有 [`Minecraft`](https://www.minecraft.net/) [`undertale`](https://undertale.com/) [`Phigros`](https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros)
 
-🎼 我喜欢的音乐有 `卡农` `梦中的婚礼` `莫失莫忘`
+🎼 我喜欢的音乐有 [`卡农`](https://www.youtube.com/watch?v=Ptk_1Dc2iPY) [`梦中的婚礼`](https://www.youtube.com/watch?v=FoCG-WNsZio) [`莫失莫忘`](https://www.youtube.com/watch?v=xTRVZbHjmbc)
 
 📫 你可以在 [Twitter(~大叉叉~)](https://twitter.com/whiterasbk) 上找到我
 
