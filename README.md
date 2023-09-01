@@ -35,7 +35,7 @@ you can call me -> ✨ whiter ✨
 📫 You can find me at [Twitter(~X~)](https://twitter.com/whiterasbk)
 
 
-## Ooops! Contributions almost eaten up by gready snake!
+## Ooops! Contributions are almost eaten up by gready snake!
 
 ![](https://github.com/whiterasbk/whiterasbk/blob/snake-output/github-contribution-grid-snake.svg)
 
