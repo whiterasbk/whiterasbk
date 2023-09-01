@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-喂喂喂! 吃光啦!
+**喂喂喂! 贡献快被贪吃蛇吃光了啊喂!**
+
 ![](https://github.com/whiterasbk/whiterasbk/blob/snake-output/github-contribution-grid-snake.svg)
