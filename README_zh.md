@@ -1,6 +1,6 @@
 ## 👋 很高兴认识你 👋
 
-简体中文 | [English](https://#) 
+简体中文 | [English](https://github.com/whiterasbk/whiterasbk) 
 
 我的名字是 -> ✨ 子钰余子式 ✨
 
