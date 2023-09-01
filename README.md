@@ -19,7 +19,7 @@
 
 🚩 Contribution 也很菜逼
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiterasbk)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiterasbk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 我最近正在致力于 `躺平`
 
