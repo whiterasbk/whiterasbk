@@ -1,5 +1,7 @@
 ## 👋 很高兴认识你 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=云横秦岭家何在，雪拥蓝关马不前)](https://git.io/typing-svg)
+
 简体中文 | [English](https://github.com/whiterasbk/whiterasbk) 
 
 我的名字是 -> ✨ 子钰余子式 ✨
