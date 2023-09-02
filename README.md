@@ -15,7 +15,7 @@ You can call me -> ✨ whiter ✨
 
 <=== And his avatar is similar to the left side, then he's highly likely me
 
-✒️ I mainly use the following language in my repos
+✒️ I mainly use the following languages in my repos
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiterasbk&layout=compact&hide=HTML,CSS,Less,Liquid)](https://github.com/anuraghazra/github-readme-stats)
 
