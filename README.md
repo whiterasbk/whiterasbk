@@ -3,9 +3,9 @@
 
 English | [简体中文](https://github.com/whiterasbk/whiterasbk/blob/main/README_zh.md) 
 
-you can call me -> ✨ whiter ✨
+You can call me -> ✨ whiter ✨
 
-😄 but if you meet names below in other places: 
+😄 But if you meet names below in other places: 
  
  - 白客
  - 白子钰
@@ -13,7 +13,7 @@ you can call me -> ✨ whiter ✨
  - whiter
  - whiterasbk
 
-<=== and his avatar is similar to the left side, then he's highly likely me
+<=== And his avatar is similar to the left side, then he's highly likely me
 
 ✒️ I mainly use the following language in my repos
 
