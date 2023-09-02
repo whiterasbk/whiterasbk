@@ -13,7 +13,7 @@ You can call me -> ✨ whiter ✨
  - whiter
  - whiterasbk
 
-<=== And his avatar is similar to the left side, then he's highly likely me
+👈 And his avatar is similar to the left side, then he's highly likely me
 
 ✒️ I mainly use the following languages in my repos
 
