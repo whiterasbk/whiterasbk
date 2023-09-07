@@ -27,7 +27,7 @@
 
 🌱 我最近正在学习 [`咳特灵`](https://kotlinlang.org)
 
-💝 我感兴趣的领域有 `编译原理` `音乐`
+💝 我感兴趣的领域有 `编译原理` `音乐` `摸🐟`
 
 🎮 我喜欢的游戏有 [`Minecraft`](https://www.minecraft.net/) [`undertale`](https://undertale.com/) [`Phigros`](https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros)
 
