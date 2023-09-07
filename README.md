@@ -27,7 +27,7 @@ You can call me -> ✨ whiter ✨
 
 🌱 I’m currently learning [`kotlin`](https://kotlinlang.org)
 
-💝 I’m interested in `Compilation Principle` `Music`
+💝 I’m interested in `Compilation Principle` `Music` `touching 🐟`
 
 🎮 I like playing [`Minecraft`](https://www.minecraft.net/) [`undertale`](https://undertale.com/) [`Phigros`](https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros)
 
