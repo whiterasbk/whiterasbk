@@ -54,7 +54,11 @@ You can call me -> ✨ whiter ✨
 
 ## Ooops! Contributions are almost eaten up by gready snake!
 
-![](https://github.com/whiterasbk/whiterasbk/blob/snake-output/github-contribution-grid-snake.svg?raw=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/whiterasbk/whiterasbk/blob/snake-output/github-contribution-grid-snake-dark.svg?raw=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/whiterasbk/whiterasbk/blob/snake-output/github-contribution-grid-snake.svg?raw=true" />
+  <img alt="github-snake" src="https://github.com/whiterasbk/whiterasbk/blob/snake-output/ocean.gif?raw=true" />
+</picture>
 
 ~It's fine, I'm even worried about it remaining starving after finishing eating~
 
