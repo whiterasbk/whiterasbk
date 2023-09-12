@@ -1,8 +1,8 @@
 ## 👋 Soooooo Nice to meet you! 👋
 
-<div>
-    <img src="https://github.com/whiterasbk/whiterasbk/blob/main/pixiu-bro.gif?raw=true" alt="running" width="512" height="256" style="margin:0 auto; display: block" />
-    <img src="https://readme-typing-svg.demolab.com/?lines=%E4%BA%91%E6%A8%AA%E7%A7%A6%E5%B2%AD%E5%AE%B6%E4%BD%95%E5%9C%A8%EF%BC%8C%E9%9B%AA%E6%8B%A5%E8%93%9D%E5%85%B3%E9%A9%AC%E4%B8%8D%E5%89%8D" alt="云横秦岭家何在，雪拥蓝关马不前" style="margin:0 auto; display: block" />
+<div align="center">
+    <img src="https://github.com/whiterasbk/whiterasbk/blob/main/pixiu-bro.gif?raw=true" alt="running" width="512" height="256" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=%E4%BA%91%E6%A8%AA%E7%A7%A6%E5%B2%AD%E5%AE%B6%E4%BD%95%E5%9C%A8%EF%BC%8C%E9%9B%AA%E6%8B%A5%E8%93%9D%E5%85%B3%E9%A9%AC%E4%B8%8D%E5%89%8D" alt="云横秦岭家何在，雪拥蓝关马不前" />
 </div>
 
 English | [简体中文](https://github.com/whiterasbk/whiterasbk/blob/main/README_zh.md) 
@@ -25,7 +25,7 @@ You can call me -> ✨ whiter ✨
 
 🚩 And Contributions are lame as well
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=whiterasbk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=whiterasbk&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 I’m currently working on `lie flat`
 
@@ -39,6 +39,18 @@ You can call me -> ✨ whiter ✨
 
 📫 You can find me at [Twitter(~X~)](https://twitter.com/whiterasbk)
 
+## Labels
+![](https://img.shields.io/badge/Euler-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6)
+![](https://img.shields.io/badge/貔貅-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6)
+![](https://img.shields.io/badge/math-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=wolframmathematica&logoColor=white)
+![](https://img.shields.io/badge/furry-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=furrynetwork&logoColor=white)
+![](https://img.shields.io/badge/dying-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6)
+![](https://img.shields.io/badge/undertale-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=undertale&logoColor=red)
+![](https://img.shields.io/badge/mc-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=minecraft&logoColor=white)
+![](https://img.shields.io/badge/android-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=android&logoColor=white)
+![](https://img.shields.io/badge/java-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6)
+![](https://img.shields.io/badge/kotlin-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/student-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6)
 
 ## Ooops! Contributions are almost eaten up by gready snake!
 
