@@ -1,7 +1,7 @@
 ## 👋 Soooooo Nice to meet you! 👋
 
 <div align="center">
-    <img src="https://github.com/whiterasbk/whiterasbk/blob/main/pixiu-bro-white.gif?raw=true" alt="running" width="80%"/>
+    <img src="https://github.com/whiterasbk/whiterasbk/blob/main/pixiu-bro.gif?raw=true" alt="running" width="80%"/>
     <img src="https://readme-typing-svg.demolab.com/?lines=%E4%BA%91%E6%A8%AA%E7%A7%A6%E5%B2%AD%E5%AE%B6%E4%BD%95%E5%9C%A8%EF%BC%8C%E9%9B%AA%E6%8B%A5%E8%93%9D%E5%85%B3%E9%A9%AC%E4%B8%8D%E5%89%8D" alt="云横秦岭家何在，雪拥蓝关马不前" />
 </div>
 
