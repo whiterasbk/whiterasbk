@@ -27,7 +27,7 @@ You can call me -> ✨ whiter ✨
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=whiterasbk&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-🔭 I’m currently working on `lie flat`
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="22" align="absmiddle" /> I’m currently working on `lie flat`
 
 🌱 I’m currently learning [`kotlin`](https://kotlinlang.org)
 
