@@ -38,7 +38,7 @@ You can call me -> ✨ whiter ✨
 🎼 I like listening [`Canon In D`](https://www.youtube.com/watch?v=Ptk_1Dc2iPY) [`Mariage d'Amour`](https://www.youtube.com/watch?v=FoCG-WNsZio) [`莫失莫忘`](https://www.youtube.com/watch?v=xTRVZbHjmbc)
 
 📫 You can find me at <a href="https://twitter.com/whiterasbk">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="35" align="absmiddle">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="35" align="absmiddle"/> Twitter
 </a>
 
 ## Labels
