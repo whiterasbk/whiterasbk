@@ -41,18 +41,17 @@ You can call me -> ✨ whiter ✨
 
 ## Labels
 <div align="center">
-    <img src="https://img.shields.io/badge/Euler-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6"/>
-![](https://img.shields.io/badge/Euler-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6)
-![](https://img.shields.io/badge/貔貅-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6)
-![](https://img.shields.io/badge/math-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=wolframmathematica&logoColor=white)
-![](https://img.shields.io/badge/furry-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=furrynetwork&logoColor=white)
-![](https://img.shields.io/badge/dying-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6)
-![](https://img.shields.io/badge/undertale-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=undertale&logoColor=red)
-![](https://img.shields.io/badge/mc-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=minecraft&logoColor=white)
-![](https://img.shields.io/badge/android-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=android&logoColor=white)
-![](https://img.shields.io/badge/java-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6)
-![](https://img.shields.io/badge/kotlin-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/student-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6)
+    <img alt="euler" src="https://img.shields.io/badge/Euler-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6" />
+    <img alt="貔貅" src="https://img.shields.io/badge/貔貅-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6" />
+    <img alt="math" src="https://img.shields.io/badge/math-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=wolframmathematica&logoColor=white" />
+    <img alt="furry" src="https://img.shields.io/badge/furry-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=furrynetwork&logoColor=white" />
+    <img alt="dying" src="https://img.shields.io/badge/dying-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6" />
+    <img alt="undertale" src="https://img.shields.io/badge/undertale-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=undertale&logoColor=red" />
+    <img alt="mc" src="https://img.shields.io/badge/mc-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=minecraft&logoColor=white" />
+    <img alt="android" src="https://img.shields.io/badge/android-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=android&logoColor=white" />
+    <img alt="java" src="https://img.shields.io/badge/java-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6" />
+    <img alt="kotlin" src="https://img.shields.io/badge/kotlin-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=kotlin&logoColor=white" />
+    <img alt="student" src="https://img.shields.io/badge/student-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6" />
 </div>
 
 
