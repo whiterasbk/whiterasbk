@@ -1,6 +1,6 @@
 ## 👋 Soooooo Nice to meet you! 👋
 
-![](https://github.com/whiterasbk/whiterasbk/blob/main/pixiu-bro.gif)
+<img src="https://github.com/whiterasbk/whiterasbk/blob/main/pixiu-bro.gif?raw=true" alt="running" width="512" height="256">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=云横秦岭家何在，雪拥蓝关马不前)](https://git.io/typing-svg)
 
@@ -24,7 +24,7 @@ You can call me -> ✨ whiter ✨
 
 🚩 And Contributions are lame as well
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiterasbk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=whiterasbk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 I’m currently working on `lie flat`
 
@@ -41,7 +41,7 @@ You can call me -> ✨ whiter ✨
 
 ## Ooops! Contributions are almost eaten up by gready snake!
 
-![](https://github.com/whiterasbk/whiterasbk/blob/snake-output/github-contribution-grid-snake.svg)
+![](https://github.com/whiterasbk/whiterasbk/blob/snake-output/github-contribution-grid-snake.svg?raw=true)
 
 ~It's fine, I'm even worried about it remaining starving after finishing eating~
 
