@@ -1,4 +1,7 @@
 ## 👋 Soooooo Nice to meet you! 👋
+
+![](https://github.com/whiterasbk/whiterasbk/blob/main/pixiu-bro.gif)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=云横秦岭家何在，雪拥蓝关马不前)](https://git.io/typing-svg)
 
 English | [简体中文](https://github.com/whiterasbk/whiterasbk/blob/main/README_zh.md) 
