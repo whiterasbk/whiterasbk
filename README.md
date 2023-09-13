@@ -53,7 +53,7 @@ Gradle              🕓 32m   █▎░░░░░░░░░░░░░░�
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
   
-## Labels
+## 🌏 Labels
 <div align="center">
     <img alt="euler" src="https://img.shields.io/badge/Euler-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6" />
     <img alt="貔貅" src="https://img.shields.io/badge/貔貅-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6" />
@@ -69,7 +69,7 @@ Gradle              🕓 32m   █▎░░░░░░░░░░░░░░�
 </div>
 
 
-## Ooops! Contributions are almost eaten up by gready snake!
+## 🐍 Ooops! Contributions are almost eaten up by gready snake!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/whiterasbk/whiterasbk/blob/snake-output/github-contribution-grid-snake-dark.svg?raw=true" />
