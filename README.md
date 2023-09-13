@@ -42,7 +42,7 @@ You can call me -> ✨ whiter ✨
 📫 You can find me at [<img src="https://github.com/whiterasbk/whiterasbk/blob/main/images/flying-twitter-logo.gif?raw=ture" width="35" align="absmiddle"/>](https://twitter.com/whiterasbk) [<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="35" align="absmiddle" />](https://discordapp.com/users/900978420685615104)
 
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/4a4304017f0b52c2513039b15a8a327d" target="_blank">📊 Weekly development breakdown</a>
+## <a href="https://gist.github.com/4a4304017f0b52c2513039b15a8a327d" target="_blank">📊 Weekly development breakdown</a>
 ```text
 Java                🕓 3h23m ████████▏░░░░░░░░░░ 42.8%
 Markdown            🕓 1h47m ████▎░░░░░░░░░░░░░░ 22.5%
