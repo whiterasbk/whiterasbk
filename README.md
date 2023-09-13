@@ -1,4 +1,4 @@
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="35px" /> So Nice To Meet You! <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="35px" />
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="35px" /> So Nice To Meet You!  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="35px" />
 
 <div align="center">
     <img src="https://github.com/whiterasbk/whiterasbk/blob/main/images/pixiu-bro-transparent.png?raw=true" alt="running" width="80%" />
@@ -37,8 +37,13 @@ You can call me -> ✨ whiter ✨
 
 🎼 I like listening [`Canon In D`](https://www.youtube.com/watch?v=Ptk_1Dc2iPY) [`Mariage d'Amour`](https://www.youtube.com/watch?v=FoCG-WNsZio) [`莫失莫忘`](https://www.youtube.com/watch?v=xTRVZbHjmbc)
 
+⌚ currently profile view data is <img src="https://komarev.com/ghpvc/?username=whiterasbk&style=for-the-badge&label=sese&color=655BE1" align="absmiddle" />
+
 📫 You can find me at [<img src="https://github.com/whiterasbk/whiterasbk/blob/main/images/flying-twitter-logo.gif?raw=ture" width="35" align="absmiddle"/>](https://twitter.com/whiterasbk) [<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="35" align="absmiddle" />](https://discordapp.com/users/900978420685615104)
 
+<!-- waka-box start -->
+<!-- waka-box end -->
+  
 ## Labels
 <div align="center">
     <img alt="euler" src="https://img.shields.io/badge/Euler-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6" />
