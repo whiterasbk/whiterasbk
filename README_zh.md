@@ -21,11 +21,11 @@
 
 ✒️ 使用的语言大概有这么少
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiterasbk&layout=compact&hide=HTML,CSS,Less,Liquid)](https://github.com/anuraghazra/github-readme-stats)
+[<img alt="Top Langs" height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiterasbk&layout=compact&hide=HTML,CSS,Less,Liquid"/>](https://github.com/anuraghazra/github-readme-stats)
 
 🚩 Contribution 也很菜逼
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiterasbk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[<img alt="GitHub stats" height="158" src="https://github-readme-stats.vercel.app/api?username=whiterasbk&show_icons=true&include_all_commits=true"/>](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 我最近正在致力于 `躺平`
 

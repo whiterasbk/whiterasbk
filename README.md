@@ -21,11 +21,11 @@ You can call me -> ✨ whiter ✨
 
 ✒️ I mainly use the following languages in my repos
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiterasbk&layout=compact&hide=HTML,CSS,Less,Liquid)](https://github.com/anuraghazra/github-readme-stats)
+[<img alt="Top Langs" height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiterasbk&layout=compact&hide=HTML,CSS,Less,Liquid"/>](https://github.com/anuraghazra/github-readme-stats)
 
 🚩 And Contributions are lame as well
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=whiterasbk&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[<img alt="GitHub stats" height="158" src="https://github-readme-stats.vercel.app/api?username=whiterasbk&show_icons=true&include_all_commits=true"/>](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" align="absmiddle" /> I’m currently working on `lie flat`
 
