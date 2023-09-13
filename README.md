@@ -31,7 +31,7 @@ You can call me -> ✨ whiter ✨
 
 🌱 I’m currently learning [`kotlin`](https://kotlinlang.org)
 
-💝 I’m interested in `Compilation Principle` `Music` `touching 🐟`
+💝 I’m interested in `Compilation Principle` `Music` `touching` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fish.png" alt="Fish" width="25" height="25" align="absmiddle" />
 
 🎮 I like playing [`Minecraft`](https://www.minecraft.net/) [`undertale`](https://undertale.com/) [`Phigros`](https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros)
 
