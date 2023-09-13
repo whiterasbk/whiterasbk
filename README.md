@@ -60,7 +60,7 @@ Gradle              🕓 32m   █▎░░░░░░░░░░░░░░�
     <img alt="math" src="https://img.shields.io/badge/math-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=wolframmathematica&logoColor=white" />
     <img alt="furry" src="https://img.shields.io/badge/furry-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=furrynetwork&logoColor=white" />
     <img alt="dying" src="https://img.shields.io/badge/dying-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6" />
-    <img alt="undertale" src="https://img.shields.io/badge/undertale-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=undertale&logoColor=red" />
+    <a href="labels/undertale.md"> <img alt="undertale" src="https://img.shields.io/badge/undertale-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=undertale&logoColor=red" /> </a>
     <img alt="mc" src="https://img.shields.io/badge/mc-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=minecraft&logoColor=white" />
     <img alt="android" src="https://img.shields.io/badge/android-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=android&logoColor=white" />
     <img alt="java" src="https://img.shields.io/badge/java-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6" />
