@@ -37,7 +37,7 @@ You can call me -> ✨ whiter ✨
 
 🎼 I like listening [`Canon In D`](https://www.youtube.com/watch?v=Ptk_1Dc2iPY) [`Mariage d'Amour`](https://www.youtube.com/watch?v=FoCG-WNsZio) [`莫失莫忘`](https://www.youtube.com/watch?v=xTRVZbHjmbc)
 
-📫 You can find me at [<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="35" align="absmiddle"/>](https://twitter.com/whiterasbk) [<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="35" align="absmiddle" />](https://discordapp.com/users/900978420685615104)
+📫 You can find me at [<img src="https://github.com/whiterasbk/whiterasbk/blob/main/images/flying-twitter-logo.gif?raw=ture" width="35" align="absmiddle"/>](https://twitter.com/whiterasbk) [<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="35" align="absmiddle" />](https://discordapp.com/users/900978420685615104)
 
 ## Labels
 <div align="center">
