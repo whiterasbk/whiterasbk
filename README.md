@@ -44,9 +44,7 @@ You can call me -> ✨ whiter ✨
 <!-- waka-box start -->
 ## <a href="https://gist.github.com/4a4304017f0b52c2513039b15a8a327d" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Kotlin 🕓 2h54m ███████████████████████████████▎ 97.9%
-JSON   🕓 3m    ▌░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  1.9%
-Java   🕓 0s    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.2%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
