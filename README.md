@@ -35,7 +35,7 @@ You can call me -> ✨ whiter ✨
 
 🎮 I like playing [`Minecraft`](https://www.minecraft.net/) [`undertale`](https://undertale.com/) [`Phigros`](https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros)
 
-🎼 I like listening [`Canon In D`](https://www.youtube.com/watch?v=Ptk_1Dc2iPY) [`Mariage d'Amour`](https://www.youtube.com/watch?v=KWdhcOtGtcE) [`莫失莫忘`](https://www.youtube.com/watch?v=xTRVZbHjmbc) [`東方萃夢想 - 砕月`](https://www.youtube.com/watch?v=w_BVp7E-mIE) [`more...`](https://github.com/whiterasbk/whiterasbk/blob/main/music.md) [`Decretum`](https://www.youtube.com/watch?v=8ID8mZeCD98)
+🎼 I like listening [`Canon In D`](https://www.youtube.com/watch?v=Ptk_1Dc2iPY) [`Mariage d'Amour`](https://www.youtube.com/watch?v=KWdhcOtGtcE) [`莫失莫忘`](https://www.youtube.com/watch?v=xTRVZbHjmbc) [`東方萃夢想 - 砕月`](https://www.youtube.com/watch?v=w_BVp7E-mIE) [`Decretum`](https://www.youtube.com/watch?v=8ID8mZeCD98) [`more...`](https://github.com/whiterasbk/whiterasbk/blob/main/music.md) 
 
 ⌚ currently profile view data is <img src="https://komarev.com/ghpvc/?username=whiterasbk&style=for-the-badge&label=sese&color=655BE1" align="absmiddle" />
 
