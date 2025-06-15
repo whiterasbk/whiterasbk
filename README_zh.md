@@ -14,6 +14,7 @@
  
  - 白客
  - 白子钰
+ - 做魚玉子燒
  - whiter
  - whiterasbk
 
@@ -35,7 +36,7 @@
 
 🎮 我喜欢的游戏有 [`Minecraft`](https://www.minecraft.net/) [`undertale`](https://undertale.com/) [`Phigros`](https://play.google.com/store/apps/details?id=com.PigeonGames.Phigros)
 
-🎼 我喜欢的音乐有 [`卡农`](https://www.youtube.com/watch?v=Ptk_1Dc2iPY) [`梦中的婚礼`](https://www.youtube.com/watch?v=FoCG-WNsZio) [`莫失莫忘`](https://www.youtube.com/watch?v=xTRVZbHjmbc)
+🎼 我喜欢的音乐有 [`Canon In D`](https://www.youtube.com/watch?v=Ptk_1Dc2iPY) [`Mariage d'Amour`](https://www.youtube.com/watch?v=tjC3fjVcDjY) [`莫失莫忘`](https://www.youtube.com/watch?v=xTRVZbHjmbc) [`東方萃夢想 - 砕月`](https://www.youtube.com/watch?v=w_BVp7E-mIE) [`Decretum`](https://www.youtube.com/watch?v=8ID8mZeCD98) [`more...`](https://github.com/whiterasbk/whiterasbk/blob/main/music.md) 
 
 📫 你可以在 [<img src="https://github.com/whiterasbk/whiterasbk/blob/main/images/flying-twitter-logo.gif?raw=ture" width="35" align="absmiddle"/>](https://twitter.com/whiterasbk) [<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="35" align="absmiddle" />](https://discordapp.com/users/900978420685615104) 上找到我
 
