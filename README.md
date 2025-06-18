@@ -62,7 +62,7 @@ Still Gathering Statistics...
     <img alt="android" src="https://img.shields.io/badge/android-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=android&logoColor=white" />
     <img alt="java" src="https://img.shields.io/badge/java-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6" />
     <img alt="kotlin" src="https://img.shields.io/badge/kotlin-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=kotlin&logoColor=white" />
-    <img alt="亲亲抱抱不要哭" src="[https://img.shields.io/badge/student-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6](https://img.shields.io/badge/%E4%BA%B2%E4%BA%B2%E6%8A%B1%E6%8A%B1%E4%B8%8D%E8%A6%81%E5%93%AD-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6)" />
+    <img alt="亲亲抱抱不要哭" src="https://img.shields.io/badge/%E4%BA%B2%E4%BA%B2%E6%8A%B1%E6%8A%B1%E4%B8%8D%E8%A6%81%E5%93%AD-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6" />
 </div>
 
 
