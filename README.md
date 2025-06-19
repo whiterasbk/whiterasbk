@@ -39,6 +39,8 @@ You can call me -> ✨ whiter ✨
 🎼 I like listening [`Canon In D`](https://www.youtube.com/watch?v=Ptk_1Dc2iPY) [`Mariage d'Amour`](https://www.youtube.com/watch?v=tjC3fjVcDjY) [`莫失莫忘`](https://www.youtube.com/watch?v=xTRVZbHjmbc) [`東方萃夢想 - 砕月`](https://www.youtube.com/watch?v=w_BVp7E-mIE) [`Decretum`](https://www.youtube.com/watch?v=8ID8mZeCD98) [`more...`](https://github.com/whiterasbk/whiterasbk/blob/main/music.md) 
 
 ⌚ currently profile view data is <img src="https://komarev.com/ghpvc/?username=whiterasbk&style=for-the-badge&label=sese&color=655BE1" align="absmiddle" />
+see below
+<img src="https://count.getloli.com/get/@whiterasbk?theme=nixietube-1"/>
 
 📫 You can find me at [<img src="https://github.com/whiterasbk/whiterasbk/blob/main/images/flying-twitter-logo.gif?raw=ture" width="35" align="absmiddle"/>](https://twitter.com/whiterasbk) [<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="35" align="absmiddle" />](https://discordapp.com/users/900978420685615104)
 
