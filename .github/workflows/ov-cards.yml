@@ -1,0 +1,42 @@
+name: Update README OV cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *" 
+  workflow_dispatch: 
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true
+          path: stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: languages
+          options: username=${{ github.repository_owner }}&layout=compact
+          path: languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output-ov-cards
+          build_dir: .
+          keep_history: false   # 每次推送都覆盖旧提交，分支只保留最新的一个 commit
+          force_orphan: true    # 强制设为孤儿分支，切断与 main 的联系，消除 PR 提示
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
