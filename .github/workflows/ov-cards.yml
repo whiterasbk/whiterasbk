@@ -31,12 +31,16 @@ jobs:
           path: ov-languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Prepare assets
+        run: |
+          mkdir -p deploy_dist
+          cp ov-stats.svg ov-languages.svg deploy_dist/
+
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output-ov-cards
-          build_dir: .
-          keep_history: false   
-          force_orphan: true
+          build_dir: deploy_dist
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
