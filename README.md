@@ -22,11 +22,11 @@ You can call me -> ✨ whiter ✨
 
 ✒️ I mainly use the following languages in my repos
 
-[<img alt="Top Langs" height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiterasbk&layout=compact&hide=HTML,CSS,Less,Liquid"/>](https://github.com/anuraghazra/github-readme-stats)
+[<img alt="Top Langs" height="158" src="https://github.com/whiterasbk/whiterasbk/blob/action-output/readme-ov-languages.svg?raw=true"/>](https://github.com/anuraghazra/github-readme-stats)
 
 🚩 And Contributions are lame as well
 
-[<img alt="GitHub stats" height="158" src="https://github-readme-stats.vercel.app/api?username=whiterasbk&show_icons=true&include_all_commits=true"/>](https://github.com/anuraghazra/github-readme-stats)
+[<img alt="GitHub stats" height="158" src="https://github.com/whiterasbk/whiterasbk/blob/action-output/readme-ov-stats.svg?raw=true"/>](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" align="absmiddle" /> I’m currently working on `lie flat`
 
@@ -72,9 +72,9 @@ Still Gathering Statistics...
 ## 🐍 Ooops! Contributions are almost eaten up by gready snake!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/whiterasbk/whiterasbk/blob/snake-output/github-contribution-grid-snake-dark.svg?raw=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/whiterasbk/whiterasbk/blob/snake-output/github-contribution-grid-snake.svg?raw=true" />
-  <img alt="github-snake" src="https://github.com/whiterasbk/whiterasbk/blob/snake-output/ocean.gif?raw=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/whiterasbk/whiterasbk/blob/action-output/github-contribution-grid-snake-dark.svg?raw=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/whiterasbk/whiterasbk/blob/action-output/github-contribution-grid-snake.svg?raw=true" />
+  <img alt="github-snake" src="https://github.com/whiterasbk/whiterasbk/blob/action-output/ocean.gif?raw=true" />
 </picture>
 
 ~It's fine, I'm even worried about it remaining starving after finishing eating~
