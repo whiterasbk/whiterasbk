@@ -1,4 +1,4 @@
-name: Update README OV cards
+name: Update README OV Cards
 
 on:
   schedule:
@@ -20,7 +20,7 @@ jobs:
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true
-          path: ov-stats.svg
+          path: readme-ov-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
@@ -28,41 +28,19 @@ jobs:
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
-          path: ov-languages.svg
+          path: readme-ov-languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Deploy to output branch (Zero-Connection Orphan)
+      - name: Prepare assets
         run: |
-          # 1. 临时保存生成的 SVG 文件到内存/缓存区
-          mkdir /tmp/assets
-          cp ov-stats.svg ov-languages.svg /tmp/assets/
-          
-          # 2. 彻底清理当前 Git 状态，切换到一个全新的、无历史的分支
-          # 使用 git checkout --orphan 后，立即 git rm -rf . 清空所有内容
-          git checkout --orphan output-ov-cards
-          git rm -rf . > /dev/null
-          
-          # 3. 把文件搬回来
-          cp /tmp/assets/*.svg .
-          
-          # 4. 提交并强制推送
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Update README cards [skip ci]"
-          
-          # 5. 强制推送覆盖远程
-          git push origin output-ov-cards --force
-      # - name: Prepare assets
-      #   run: |
-      #     mkdir -p deploy_dist
-      #     cp ov-stats.svg ov-languages.svg deploy_dist/
+          mkdir -p deploy_dist
+          cp readme-ov-stats.svg readme-ov-languages.svg deploy_dist/
 
-      # - name: Deploy to GitHub Pages
-      #   uses: crazy-max/ghaction-github-pages@v5
-      #   with:
-      #     target_branch: output-ov-cards
-      #     build_dir: deploy_dist
-      #     keep_history: false
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: snake-output
+          build_dir: deploy_dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

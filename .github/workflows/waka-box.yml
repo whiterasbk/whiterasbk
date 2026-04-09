@@ -1,4 +1,4 @@
-name: Update wakatime stats
+name: Update Wakatime Stats
 
 permissions:
   contents: write
