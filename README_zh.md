@@ -40,8 +40,15 @@
 
 📫 你可以在 [<img src="https://github.com/whiterasbk/whiterasbk/blob/main/images/flying-twitter-logo.gif?raw=ture" width="35" align="absmiddle"/>](https://twitter.com/whiterasbk) [<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="35" align="absmiddle" />](https://discordapp.com/users/900978420685615104) 上找到我
 
-## 标签
+<!-- waka-box start -->
+📊 Weekly development breakdown
+```text
+Still Gathering Statistics...
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<!-- waka-box end -->
 
+## 标签
 <div align="center">
     <img alt="euler" src="https://img.shields.io/badge/Euler-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6" />
     <img alt="貔貅" src="https://img.shields.io/badge/貔貅-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6" />
@@ -53,7 +60,7 @@
     <img alt="android" src="https://img.shields.io/badge/android-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=android&logoColor=white" />
     <img alt="java" src="https://img.shields.io/badge/java-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6" />
     <img alt="kotlin" src="https://img.shields.io/badge/kotlin-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6&logo=kotlin&logoColor=white" />
-    <img alt="student" src="https://img.shields.io/badge/student-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6" />
+    <img alt="亲亲抱抱不要哭" src="https://img.shields.io/badge/%E4%BA%B2%E4%BA%B2%E6%8A%B1%E6%8A%B1%E4%B8%8D%E8%A6%81%E5%93%AD-purple?style=for-the-badge&colorA=655BE1&colorB=4F44D6" />
 </div>
 
 
