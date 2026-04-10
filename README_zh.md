@@ -22,11 +22,11 @@
 
 ✒️ 使用的语言大概有这么少
 
-[<img alt="Top Langs" height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiterasbk&layout=compact&hide=HTML,CSS,Less,Liquid"/>](https://github.com/anuraghazra/github-readme-stats)
+[<img alt="Top Langs" height="158" src="https://github.com/whiterasbk/whiterasbk/blob/action-output/readme-ov-languages.svg?raw=true"/>](https://github.com/anuraghazra/github-readme-stats)
 
 🚩 Contribution 也很菜逼
 
-[<img alt="GitHub stats" height="158" src="https://github-readme-stats.vercel.app/api?username=whiterasbk&show_icons=true&include_all_commits=true"/>](https://github.com/anuraghazra/github-readme-stats)
+[<img alt="GitHub stats" height="158" src="https://github.com/whiterasbk/whiterasbk/blob/action-output/readme-ov-stats.svg?raw=true"/>](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 我最近正在致力于 `躺平`
 
@@ -60,25 +60,9 @@
 ## 喂喂喂! Contributions 快被吃光了啊喂!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/whiterasbk/whiterasbk/blob/snake-output/github-contribution-grid-snake-dark.svg?raw=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/whiterasbk/whiterasbk/blob/snake-output/github-contribution-grid-snake.svg?raw=true" />
-  <img alt="github-snake" src="https://github.com/whiterasbk/whiterasbk/blob/snake-output/ocean.gif?raw=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/whiterasbk/whiterasbk/blob/action-output/github-contribution-grid-snake-dark.svg?raw=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/whiterasbk/whiterasbk/blob/action-output/github-contribution-grid-snake.svg?raw=true" />
+  <img alt="github-snake" src="https://github.com/whiterasbk/whiterasbk/blob/action-output/ocean.gif?raw=true" />
 </picture>
 
 ~吃! 随便吃! 本来也没多少(~
-
-<!--
-    **whiterasbk/whiterasbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-    
-    Here are some ideas to get you started:
-    
-    - 🔭 I’m currently working on ...
-    - 🌱 I’m currently learning ...
-    - 👯 I’m looking to collaborate on ...
-    - 🤔 I’m looking for help with ...
-    - 💬 Ask me about ...
-    - 📫 How to reach me: ...
-    - 😄 Pronouns: ...
-    - ⚡ Fun fact: ...
--->
-
