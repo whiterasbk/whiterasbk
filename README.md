@@ -48,10 +48,7 @@ You can call me -> ✨ whiter ✨
 <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-Shell Script 🕓 0 secs ████████████████░░░░░ 76.4%
-XML          🕓 0 secs ███▊░░░░░░░░░░░░░░░░░ 18.3%
-Kotlin       🕓 0 secs ▉░░░░░░░░░░░░░░░░░░░░  4.7%
-SQL          🕓 0 secs ░░░░░░░░░░░░░░░░░░░░░  0.6%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
