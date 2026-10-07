@@ -48,11 +48,7 @@ You can call me -> ✨ whiter ✨
 <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-Other        🕓 52 mins ████████░░░░░░░░░░░░░ 38.5%
-Markdown     🕓 22 mins ███▍░░░░░░░░░░░░░░░░░ 16.3%
-Batchfile    🕓 17 mins ██▊░░░░░░░░░░░░░░░░░░ 13.1%
-HTML         🕓 17 mins ██▋░░░░░░░░░░░░░░░░░░ 12.6%
-Groovy       🕓 13 mins ██░░░░░░░░░░░░░░░░░░░  9.8%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
