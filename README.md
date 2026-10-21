@@ -48,7 +48,11 @@ You can call me -> ✨ whiter ✨
 <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-Still Gathering Statistics...
+Kotlin                   🕓 10 hrs 5 mins ██████████████████▋░░ 88.8%
+JSON                     🕓 38 mins       █▏░░░░░░░░░░░░░░░░░░░  5.6%
+Groovy                   🕓 9 mins        ▎░░░░░░░░░░░░░░░░░░░░  1.4%
+GitIgnore file           🕓 6 mins        ▏░░░░░░░░░░░░░░░░░░░░  1.0%
+Markdown                 🕓 3 mins        ░░░░░░░░░░░░░░░░░░░░░  0.6%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
